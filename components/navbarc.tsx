@@ -15,10 +15,10 @@ export default function Nav() {
     return(
       <div className="topnav" id="myTopnav">
   <div className="container">
-  <a href="/" className="active">Home</a>
+  <a href="/" >Home</a>
   <a href="/Product">Product</a>
   <a href="/Order">Order</a>
-  <a href="/Contact">Contact</a>
+  <a href="/Contact" className="active">Contact</a>
   <a href="/Donate">Donate</a>
   <a href="javascript:void(0);"  className="icon" onClick={nav}>&#9776;</a>
   </div>

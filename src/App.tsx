@@ -1,5 +1,9 @@
-import React, { useState } from 'react'
-import Nav from '../components/navbarh'
+import React from 'react';
+import Nav from '../components/navbarh';
+import Nav2 from '../components/navbarp';
+import Nav3 from '../components/navbaro';
+import Nav4 from '../components/navbarc';
+import Nav5 from '../components/navbard';
 import '../public/css/App.css'
 
 
@@ -9,9 +13,7 @@ const Homepage = () => {
     <div className="App">
       <header className="App-header">
         <Nav />
-        <p>Hello Vite + React!</p>
         <p>
-          Edit <code>App.tsx</code> and save to test HMR updates.
         </p>
         <p>
           <a
@@ -40,7 +42,7 @@ const Productpage = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <Nav />
+        <Nav2 />
         <p>Hello Vite + React!</p>
         <p>
           Edit <code>App.tsx</code> and save to test HMR updates.
@@ -72,7 +74,7 @@ const Orderpage = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <Nav />
+        <Nav3 />
         <p>Hello Vite + React!</p>
         <p>
           Edit <code>App.tsx</code> and save to test HMR updates.
@@ -104,7 +106,7 @@ const Contactpage = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <Nav />
+        <Nav4 />
         <p>Hello Vite + React!</p>
         <p>
           Edit <code>App.tsx</code> and save to test HMR updates.
@@ -136,7 +138,7 @@ const Donatepage = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <Nav />
+        <Nav5 />
         <p>Hello Vite + React!</p>
         <p>
           Edit <code>App.tsx</code> and save to test HMR updates.

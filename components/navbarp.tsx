@@ -15,8 +15,8 @@ export default function Nav() {
     return(
       <div className="topnav" id="myTopnav">
   <div className="container">
-  <a href="/" className="active">Home</a>
-  <a href="/Product">Product</a>
+  <a href="/" >Home</a>
+  <a href="/Product" className="active">Product</a>
   <a href="/Order">Order</a>
   <a href="/Contact">Contact</a>
   <a href="/Donate">Donate</a>
