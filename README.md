@@ -1,6 +1,9 @@
 # Kumi the chubby bear website
 Just another product website
 
+# Sponsor
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/bhira)
+
 ## Want to contribute?
 1. Open pull requests and descript What you want to add to website also descript about your benefit
 2. We will merge your pull request in 1-2 days if your pull request pass but if your pull request don't pass we will comment that Why you don't pass 
@@ -37,3 +40,5 @@ $ yarn dev
 
 # Framework
 This project we use [react.js](https://reactjs.org/) but in typescript. Why not!?
+
+
