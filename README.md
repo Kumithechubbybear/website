@@ -41,4 +41,7 @@ $ yarn dev
 # Framework
 This project we use [react.js](https://reactjs.org/) but in typescript. Why not!?
 
+# Product
+3 product
 
+According to [product api](https://raw.githubusercontent.com/Kumi-the-chubby-bear/website/main/product/product.json)
