@@ -121,22 +121,19 @@ const Donatepage = () => {
   <div className="container px-5 py-24 mx-auto">
     <div className="lg:w-4/5 mx-auto flex flex-wrap">
     <div className="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
-        <h1 className="text-gray-900 text-3xl title-font font-medium mb-1">Donate on ko-fi</h1>
+        <h1 className="text-gray-900 text-3xl title-font font-medium mb-1">Donate on ronnapatp</h1>
         <div className="flex mb-4">
 
         </div>
-        <p className="leading-relaxed">Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn. Everyday carry +1 seitan poutine tumeric. Gastropub blue bottle austin listicle pour-over, neutra jean shorts keytar banjo tattooed umami cardigan.</p>
-
+        <iframe id='kofiframe' src='https://ko-fi.com/ronnapatp/?hidefeed=true&widget=true&embed=true&preview=true' style={{border:"none",width:"100%",padding:"4px",background:"#f9f9f9"}} height='500' title='ronnapatp'></iframe>
 
       </div>
       <div className="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
-        <h1 className="text-gray-900 text-3xl title-font font-medium mb-1">Donate on paypal</h1>
+        <h1 className="text-gray-900 text-3xl title-font font-medium mb-1">Donate to bhira</h1>
         <div className="flex mb-4">
 
         </div>
-        <p className="leading-relaxed">Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn. Everyday carry +1 seitan poutine tumeric. Gastropub blue bottle austin listicle pour-over, neutra jean shorts keytar banjo tattooed umami cardigan.</p>
-
-
+        <iframe id='kofiframe' src='https://ko-fi.com/bhira/?hidefeed=true&widget=true&embed=true&preview=true' style={{border:"none",width:"100%",padding:"4px",background:"#f9f9f9"}} height='500' title='bhira'></iframe>
       </div>
     </div>
   </div>
