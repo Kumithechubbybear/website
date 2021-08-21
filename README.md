@@ -30,7 +30,20 @@ $ npm install
 $ yarn
 ```
 
-3. Run website on you computer sever you with get localhost link
+3. Install [Tailwind CSS](https://tailwindcss.com/)
+``` shell
+# npm
+$ npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
+$ npm install @craco/craco
+
+
+# yarn
+$ yarn add -D tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
+$ yarn @craco/craco
+
+```
+
+4. Run website on you computer sever you with get localhost link
 ``` shell
 # npm
 $ npm run dev
