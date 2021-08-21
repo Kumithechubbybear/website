@@ -43,7 +43,7 @@ $ yarn @craco/craco
 
 ```
 
-4. Run website on you computer sever you with get localhost link
+4. Run website on you computer sever you will get localhost link
 ``` shell
 # npm
 $ npm run dev
