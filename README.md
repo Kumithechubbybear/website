@@ -14,6 +14,7 @@ Just another product website
 
 
 # Installation
+**You need node.js version 12 or higher**
 1. Clone project
 
 Notice : You need to install [git](https://git-scm.com/) in your computer first but if you don't want to install just click download zip file
