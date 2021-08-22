@@ -1,6 +1,7 @@
 {
   "name": "kumiweb",
   "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
