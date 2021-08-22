@@ -1,8 +1,6 @@
 {
   "name": "kumiweb",
   "version": "1.0.0",
-  "license": "MIT",
-  "author": "ronnapatp,bhira",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
